@@ -9,7 +9,7 @@ Get real-time weather details.
 Backend hosted on PythonAnywhere.
 Simple and user-friendly interface.
 
-##Prerequisites
+## Prerequisites
 Ensure you have the following installed:
 - Python
 - Flask
