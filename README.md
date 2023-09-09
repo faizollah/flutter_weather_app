@@ -1,6 +1,6 @@
 # Weather App with PythonAnywhere Backend
 
-![alt text](app.png)
+![alt text](app.png =x100)
 
 This is a repository for this video contains a weather application that leverages PythonAnywhere as its backend server. The backend fetches weather data from an external API and sends the information to the frontend, displaying the current weather details for a chosen city. For detailed explanation, watch this video.
 
