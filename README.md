@@ -1,16 +1,18 @@
-# weather_api
+# Weather App with PythonAnywhere Backend
 
-A new Flutter project.
+![alt text](app.png)
 
-## Getting Started
+This is a repository for this video contains a weather application that leverages PythonAnywhere as its backend server. The backend fetches weather data from an external API and sends the information to the frontend, displaying the current weather details for a chosen city. For detailed explanation, watch this video.
 
-This project is a starting point for a Flutter application.
+## Features
+Get real-time weather details.
+Backend hosted on PythonAnywhere.
+Simple and user-friendly interface.
 
-A few resources to get you started if this is your first Flutter project:
+##Prerequisites
+Ensure you have the following installed:
+- Python
+- Flask
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Deployment
+The backend of this app is deployed on PythonAnywhere. For deployment instructions, visit PythonAnywhere's Help Page. Use [this link](https://www.pythonanywhere.com/?affiliate_id=0029eba8) to sign up on the PythonAnywhere.
